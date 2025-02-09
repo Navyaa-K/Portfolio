@@ -1,0 +1,14 @@
+day 1:06/02/2025
+learn:
+    1.how to use navbar
+        how to modify it
+    2.css styles for navbar
+day 2:07/02/2025
+learn:
+    1.how to access sections using navbar
+    2.new css tags
+day 2:09/02/2025
+learn:
+    1.more css tags
+
+
